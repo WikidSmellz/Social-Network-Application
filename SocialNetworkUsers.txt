@@ -1,0 +1,21 @@
+20	
+u1	Amna Akram
+u2	Muhammad Ali
+u3	Waheed Khan
+u4	Burhan Tahir
+u5	Hassan Sohail
+u6	Saad Ali
+u7	Abdullah Nadeem
+u8	Nimra Batool
+u9	Abubakar Javed
+u10	Saad Sultan
+u11	Ahsan Ali
+u12	Ali Ahmed
+u13	Saad Ahmed
+u14	Usman Usman
+u15	Zaid Tariq
+u16	Abdullah Siddiqui
+u17	Saif ullah
+u18	Hashir Baig
+u19	Usama  Jawad
+u20	Haris Muneer
