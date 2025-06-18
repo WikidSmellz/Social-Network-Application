@@ -53,11 +53,6 @@ The `main()` function demonstrates sample usage by:
 8. Viewing memories
 9. Sharing a memory
 
-## Notes
-- The current date is hardcoded to April 17, 2024 for demonstration purposes
-- Memory posts are created with "_mem" appended to the original post ID
-- The application assumes data files are properly formatted
-
 ## Limitations
 - No input validation for file data
 - Limited error handling
